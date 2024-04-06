@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1707226689491,
+      "tag": "0000_colorful_the_professor",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1707252084660,
+      "tag": "0001_chubby_moondragon",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1707252843530,
+      "tag": "0002_simple_mister_fear",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1707314193011,
+      "tag": "0003_far_banshee",
+      "breakpoints": true
+    }
+  ]
+}
